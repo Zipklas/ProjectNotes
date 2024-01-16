@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectNotes</string>
+    <string name="search_here">Поиск</string>
+    <string name="clear">clear</string>
+    <string name="no_data">no_data</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="choose_color">Выберете цвет</string>
+    <string name="some_text">Какой-то текст
+    </string>
+    <string name="edited_on">Редактировано: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
